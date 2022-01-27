@@ -1,0 +1,2180 @@
+{
+    "102398726": {
+        "ingredients": [
+            {
+                "ingredient": "102388309",
+                "quantity": "1200"
+            }
+        ],
+        "prodItems": {
+            "item": "102398726",
+            "packSize": "",
+            "weight": 1200,
+            "pieceWeight": 0
+        }
+    },
+    "102398734": {
+        "ingredients": [
+            {
+                "ingredient": "102388317",
+                "quantity": "1500"
+            }
+        ],
+        "prodItems": {
+            "item": "102398734",
+            "packSize": "",
+            "weight": 1500,
+            "pieceWeight": 0
+        }
+    },
+    "105320676": {
+        "ingredients": [
+            {
+                "ingredient": "102388309",
+                "quantity": "600"
+            },
+            {
+                "ingredient": "102388317",
+                "quantity": "749"
+            }
+        ],
+        "prodItems": {
+            "item": "105320676",
+            "packSize": "",
+            "weight": 1349,
+            "pieceWeight": 0
+        }
+    },
+    "105628494": {
+        "ingredients": [
+            {
+                "ingredient": "102385159",
+                "quantity": "62.4"
+            },
+            {
+                "ingredient": "108475411",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            }
+        ],
+        "prodItems": {
+            "item": "105628494",
+            "packSize": "2",
+            "weight": 137.4,
+            "pieceWeight": 68.7,
+            "multiple": "5"
+        }
+    },
+    "105628620": {
+        "ingredients": [
+            {
+                "ingredient": "106350666",
+                "quantity": "180"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "120"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "105628620",
+            "packSize": "2",
+            "weight": 304,
+            "pieceWeight": 152,
+            "multiple": "5"
+        }
+    },
+    "105628646": {
+        "ingredients": [
+            {
+                "ingredient": "106350691",
+                "quantity": "180"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "120"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "105628646",
+            "packSize": "2",
+            "weight": 304,
+            "pieceWeight": 152,
+            "multiple": "5"
+        }
+    },
+    "105628718": {
+        "ingredients": [
+            {
+                "ingredient": "107388949",
+                "quantity": "288"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "105628718",
+            "packSize": "2",
+            "weight": 382,
+            "pieceWeight": 191,
+            "multiple": "4"
+        }
+    },
+    "105629850": {
+        "ingredients": [
+            {
+                "ingredient": "108858228",
+                "quantity": "55"
+            },
+            {
+                "ingredient": "105544127",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "109707093",
+                "quantity": "7.8"
+            }
+        ],
+        "prodItems": {
+            "item": "105629850",
+            "packSize": "1",
+            "weight": 312.8,
+            "pieceWeight": 312.8,
+            "multiple": "4"
+        }
+    },
+    "105629913": {
+        "ingredients": [
+            {
+                "ingredient": "105544127",
+                "quantity": "204"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "105629913",
+            "packSize": "2",
+            "weight": 278,
+            "pieceWeight": 139,
+            "multiple": "4"
+        }
+    },
+    "105630025": {
+        "ingredients": [
+            {
+                "ingredient": "105526181",
+                "quantity": "65"
+            },
+            {
+                "ingredient": "105009626",
+                "quantity": "8000"
+            },
+            {
+                "ingredient": "102385175",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "90"
+            },
+            {
+                "ingredient": "106257744",
+                "quantity": "3"
+            }
+        ],
+        "prodItems": {
+            "item": "105630025",
+            "packSize": "1",
+            "weight": 8183,
+            "pieceWeight": 8183,
+            "multiple": "1"
+        }
+    },
+    "105630068": {
+        "ingredients": [
+            {
+                "ingredient": "105526181",
+                "quantity": "65"
+            },
+            {
+                "ingredient": "105544098",
+                "quantity": "35"
+            },
+            {
+                "ingredient": "108787360",
+                "quantity": "65"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "90"
+            },
+            {
+                "ingredient": "106257744",
+                "quantity": "3"
+            }
+        ],
+        "prodItems": {
+            "item": "105630068",
+            "packSize": "1",
+            "weight": 258,
+            "pieceWeight": 258,
+            "multiple": "1"
+        }
+    },
+    "105630092": {
+        "ingredients": [
+            {
+                "ingredient": "104739424",
+                "quantity": "240"
+            },
+            {
+                "ingredient": "108858228",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "60"
+            }
+        ],
+        "prodItems": {
+            "item": "105630092",
+            "packSize": "2",
+            "weight": 340,
+            "pieceWeight": 170,
+            "multiple": "4"
+        }
+    },
+    "105630210": {
+        "ingredients": [
+            {
+                "ingredient": "105198164",
+                "quantity": "90"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "180"
+            },
+            {
+                "ingredient": "102385124",
+                "quantity": "150"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "108222140",
+                "quantity": "134"
+            }
+        ],
+        "prodItems": {
+            "item": "105630210",
+            "packSize": "1",
+            "weight": 558,
+            "pieceWeight": 558,
+            "multiple": "2"
+        }
+    },
+    "105630236": {
+        "ingredients": [
+            {
+                "ingredient": "108781558",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "108222140",
+                "quantity": "134"
+            }
+        ],
+        "prodItems": {
+            "item": "105630236",
+            "packSize": "1",
+            "weight": 312,
+            "pieceWeight": 312,
+            "multiple": "1"
+        }
+    },
+    "105630252": {
+        "ingredients": [
+            {
+                "ingredient": "108222174",
+                "quantity": "445"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "300"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "150"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "6"
+            }
+        ],
+        "prodItems": {
+            "item": "105630252",
+            "packSize": "1",
+            "weight": 901,
+            "pieceWeight": 901,
+            "multiple": "2"
+        }
+    },
+    "105630279": {
+        "ingredients": [
+            {
+                "ingredient": "105526181",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "10822094",
+                "quantity": "134"
+            }
+        ],
+        "prodItems": {
+            "item": "105630279",
+            "packSize": "1",
+            "weight": 287,
+            "pieceWeight": 287,
+            "multiple": "2"
+        }
+    },
+    "105630308": {
+        "ingredients": [
+            {
+                "ingredient": "108222060",
+                "quantity": "455"
+            },
+            {
+                "ingredient": "105526181",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "300"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "6"
+            }
+        ],
+        "prodItems": {
+            "item": "105630308",
+            "packSize": "1",
+            "weight": 861,
+            "pieceWeight": 861,
+            "multiple": "2"
+        }
+    },
+    "105630324": {
+        "ingredients": [
+            {
+                "ingredient": "108858228",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "120"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "108222140",
+                "quantity": "134"
+            }
+        ],
+        "prodItems": {
+            "item": "105630324",
+            "packSize": "1",
+            "weight": 368,
+            "pieceWeight": 368,
+            "multiple": "2"
+        }
+    },
+    "105630412": {
+        "ingredients": [
+            {
+                "ingredient": "108222174",
+                "quantity": "445"
+            },
+            {
+                "ingredient": "108858228",
+                "quantity": "300"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "270"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "480"
+            },
+            {
+                "ingredient": "106256881",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "75"
+            }
+        ],
+        "prodItems": {
+            "item": "105630412",
+            "packSize": "",
+            "weight": 1630,
+            "pieceWeight": 0
+        }
+    },
+    "105630447": {
+        "ingredients": [
+            {
+                "ingredient": "102385175",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "105009626",
+                "quantity": "16000"
+            },
+            {
+                "ingredient": "105526181",
+                "quantity": "180"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "150"
+            },
+            {
+                "ingredient": "106257744",
+                "quantity": "5"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "2"
+            }
+        ],
+        "prodItems": {
+            "item": "105630447",
+            "packSize": "1",
+            "weight": 16377,
+            "pieceWeight": 16377,
+            "multiple": "2"
+        }
+    },
+    "105630631": {
+        "ingredients": [
+            {
+                "ingredient": "104900222",
+                "quantity": "145"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "200"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "225"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "18"
+            }
+        ],
+        "prodItems": {
+            "item": "105630631",
+            "packSize": "1",
+            "weight": 588,
+            "pieceWeight": 588,
+            "multiple": "2"
+        }
+    },
+    "105630658": {
+        "ingredients": [
+            {
+                "ingredient": "104900222",
+                "quantity": "145"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "200"
+            },
+            {
+                "ingredient": "106225646",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "108409721",
+                "quantity": "16"
+            },
+            {
+                "ingredient": "108472966",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "107378986",
+                "quantity": "18"
+            }
+        ],
+        "prodItems": {
+            "item": "105630658",
+            "packSize": "1",
+            "weight": 479,
+            "pieceWeight": 479,
+            "multiple": "2"
+        }
+    },
+    "105697941": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "94"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "47.2"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "6"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "70.4"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "12"
+            },
+            {
+                "ingredient": "110788151",
+                "quantity": "40"
+            }
+        ],
+        "prodItems": {
+            "item": "105697941",
+            "packSize": "",
+            "weight": 269.6,
+            "pieceWeight": 0
+        }
+    },
+    "105713648": {
+        "ingredients": [
+            {
+                "ingredient": "105544098",
+                "quantity": "204"
+            },
+            {
+                "ingredient": "108787360",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "105713648",
+            "packSize": "2",
+            "weight": 298,
+            "pieceWeight": 149,
+            "multiple": "4"
+        }
+    },
+    "105819266": {
+        "ingredients": [
+            {
+                "ingredient": "104900222",
+                "quantity": "145"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "130"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "45"
+            }
+        ],
+        "prodItems": {
+            "item": "105819266",
+            "packSize": "",
+            "weight": 420,
+            "pieceWeight": 0
+        }
+    },
+    "105867487": {
+        "ingredients": [
+            {
+                "ingredient": "105526181",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "150"
+            },
+            {
+                "ingredient": "108787360",
+                "quantity": "110"
+            },
+            {
+                "ingredient": "106257744",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "10822094",
+                "quantity": "134"
+            }
+        ],
+        "prodItems": {
+            "item": "105867487",
+            "packSize": "1",
+            "weight": 489,
+            "pieceWeight": 489,
+            "multiple": "5"
+        }
+    },
+    "106251203": {
+        "ingredients": [
+            {
+                "ingredient": "105544127",
+                "quantity": "204"
+            },
+            {
+                "ingredient": "111300268",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "4"
+            }
+        ],
+        "prodItems": {
+            "item": "106251203",
+            "packSize": "2",
+            "weight": 278,
+            "pieceWeight": 139,
+            "multiple": "4"
+        }
+    },
+    "106251318": {
+        "ingredients": [
+            {
+                "ingredient": "108222140",
+                "quantity": "134"
+            },
+            {
+                "ingredient": "111300268",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "3"
+            }
+        ],
+        "prodItems": {
+            "item": "106251318",
+            "packSize": "1",
+            "weight": 277,
+            "pieceWeight": 277,
+            "multiple": "1"
+        }
+    },
+    "106779278": {
+        "ingredients": [
+            {
+                "ingredient": "110949663",
+                "quantity": "186"
+            }
+        ],
+        "prodItems": {
+            "item": "106779278",
+            "packSize": "2",
+            "weight": 186,
+            "pieceWeight": 93,
+            "multiple": 1
+        }
+    },
+    "108099532": {
+        "ingredients": [
+            {
+                "ingredient": "102388309",
+                "quantity": "1200"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "125"
+            },
+            {
+                "ingredient": "108585426",
+                "quantity": "35"
+            },
+            {
+                "ingredient": "108473192",
+                "quantity": "81.25"
+            },
+            {
+                "ingredient": "108472798",
+                "quantity": "64"
+            },
+            {
+                "ingredient": "108472966",
+                "quantity": "32"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "5"
+            }
+        ],
+        "prodItems": {
+            "item": "108099532",
+            "packSize": "",
+            "weight": 1542.25,
+            "pieceWeight": 0
+        }
+    },
+    "108102210": {
+        "ingredients": [
+            {
+                "ingredient": "108112320",
+                "quantity": "80"
+            },
+            {
+                "ingredient": "106225646",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "105544127",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "106256881",
+                "quantity": "5"
+            }
+        ],
+        "prodItems": {
+            "item": "108102210",
+            "packSize": "1",
+            "weight": 265,
+            "pieceWeight": 265,
+            "multiple": "1"
+        }
+    },
+    "108102261": {
+        "ingredients": [
+            {
+                "ingredient": "108112389",
+                "quantity": "80"
+            },
+            {
+                "ingredient": "108472798",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "105544127",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "106256881",
+                "quantity": "5"
+            }
+        ],
+        "prodItems": {
+            "item": "108102261",
+            "packSize": "1",
+            "weight": 245,
+            "pieceWeight": 245,
+            "multiple": "1"
+        }
+    },
+    "108105998": {
+        "ingredients": [
+            {
+                "ingredient": "108921952",
+                "quantity": "1400"
+            }
+        ],
+        "prodItems": {
+            "item": "108105998",
+            "packSize": "",
+            "weight": 1400,
+            "pieceWeight": 0
+        }
+    },
+    "108405659": {
+        "ingredients": [
+            {
+                "ingredient": "109481733",
+                "quantity": "160"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "2"
+            }
+        ],
+        "prodItems": {
+            "item": "108405659",
+            "packSize": "1",
+            "weight": 242,
+            "pieceWeight": 242,
+            "multiple": "1"
+        }
+    },
+    "108886691": {
+        "ingredients": [
+            {
+                "ingredient": "108881701",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "60"
+            }
+        ],
+        "prodItems": {
+            "item": "108886691",
+            "packSize": "2",
+            "weight": 94,
+            "pieceWeight": 47,
+            "multiple": "4"
+        }
+    },
+    "108887037": {
+        "ingredients": [
+            {
+                "ingredient": "108472798",
+                "quantity": "48"
+            },
+            {
+                "ingredient": "105544127",
+                "quantity": "102"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "230"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "120"
+            },
+            {
+                "ingredient": "106256881",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "110020133",
+                "quantity": "185"
+            }
+        ],
+        "prodItems": {
+            "item": "108887037",
+            "packSize": "1",
+            "weight": 695,
+            "pieceWeight": 695,
+            "multiple": "2"
+        }
+    },
+    "108949824": {
+        "ingredients": [
+            {
+                "ingredient": "102388317",
+                "quantity": "107"
+            }
+        ],
+        "prodItems": {
+            "item": "108949824",
+            "packSize": "1",
+            "weight": 107,
+            "pieceWeight": 107,
+            "multiple": "1"
+        }
+    },
+    "108949859": {
+        "ingredients": [
+            {
+                "ingredient": "102388309",
+                "quantity": "100"
+            }
+        ],
+        "prodItems": {
+            "item": "108949859",
+            "packSize": "1",
+            "weight": 100,
+            "pieceWeight": 100,
+            "multiple": "1"
+        }
+    },
+    "109223128": {
+        "ingredients": [
+            {
+                "ingredient": "108222060",
+                "quantity": "227.5"
+            },
+            {
+                "ingredient": "105526181",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "108222174",
+                "quantity": "445"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111300268",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "144"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "24"
+            }
+        ],
+        "prodItems": {
+            "item": "109223128",
+            "packSize": "",
+            "weight": 960.5,
+            "pieceWeight": 0
+        }
+    },
+    "109349257": {
+        "ingredients": [
+            {
+                "ingredient": "109466736",
+                "quantity": "113"
+            }
+        ],
+        "prodItems": {
+            "item": "109349257",
+            "packSize": "1",
+            "weight": 113,
+            "pieceWeight": 113,
+            "multiple": "1"
+        }
+    },
+    "109349388": {
+        "ingredients": [
+            {
+                "ingredient": "109466824",
+                "quantity": "131"
+            }
+        ],
+        "prodItems": {
+            "item": "109349388",
+            "packSize": "1",
+            "weight": 131,
+            "pieceWeight": 131,
+            "multiple": "1"
+        }
+    },
+    "109357871": {
+        "ingredients": [
+            {
+                "ingredient": "109100742",
+                "quantity": "90"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "108491948",
+                "quantity": "32"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "102385175",
+                "quantity": "20"
+            }
+        ],
+        "prodItems": {
+            "item": "109357871",
+            "packSize": "1",
+            "weight": 237,
+            "pieceWeight": 237,
+            "multiple": "1"
+        }
+    },
+    "109368343": {
+        "ingredients": [
+            {
+                "ingredient": "111717637",
+                "quantity": "21.66666667"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "43.33333333"
+            },
+            {
+                "ingredient": "104900193",
+                "quantity": "48"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "106225646",
+                "quantity": "32"
+            },
+            {
+                "ingredient": "108409721",
+                "quantity": "16"
+            },
+            {
+                "ingredient": "108472966",
+                "quantity": "6"
+            },
+            {
+                "ingredient": "107378986",
+                "quantity": "6"
+            }
+        ],
+        "prodItems": {
+            "item": "109368343",
+            "packSize": "1",
+            "weight": 223,
+            "pieceWeight": 223,
+            "multiple": "1"
+        }
+    },
+    "109368482": {
+        "ingredients": [
+            {
+                "ingredient": "111717637",
+                "quantity": "21.66666667"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "43.33333333"
+            },
+            {
+                "ingredient": "104900193",
+                "quantity": "48"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "6"
+            }
+        ],
+        "prodItems": {
+            "item": "109368482",
+            "packSize": "1",
+            "weight": 219,
+            "pieceWeight": 219,
+            "multiple": "1"
+        }
+    },
+    "109368589": {
+        "ingredients": [
+            {
+                "ingredient": "104900193",
+                "quantity": "48"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "108491948",
+                "quantity": "24"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "102385175",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "106256881",
+                "quantity": "2"
+            }
+        ],
+        "prodItems": {
+            "item": "109368589",
+            "packSize": "1",
+            "weight": 154,
+            "pieceWeight": 154,
+            "multiple": "1"
+        }
+    },
+    "109726201": {
+        "ingredients": [
+            {
+                "ingredient": "109707093",
+                "quantity": "62.4"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "25"
+            }
+        ],
+        "prodItems": {
+            "item": "109726201",
+            "packSize": "2",
+            "weight": 137.4,
+            "pieceWeight": 68.7,
+            "multiple": "5"
+        }
+    },
+    "109758341": {
+        "ingredients": [
+            {
+                "ingredient": "109829269",
+                "quantity": "80"
+            },
+            {
+                "ingredient": "105544127",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "108409721",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "108409596",
+                "quantity": "15"
+            }
+        ],
+        "prodItems": {
+            "item": "109758341",
+            "packSize": "1",
+            "weight": 239,
+            "pieceWeight": 239,
+            "multiple": "1"
+        }
+    },
+    "109905313": {
+        "ingredients": [
+            {
+                "ingredient": "104900193",
+                "quantity": "244.735426"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "404.9327354"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "18"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "110.470852"
+            },
+            {
+                "ingredient": "105198164",
+                "quantity": "220.941704"
+            },
+            {
+                "ingredient": "106225646",
+                "quantity": "67.15695067"
+            },
+            {
+                "ingredient": "108409721",
+                "quantity": "33.57847534"
+            },
+            {
+                "ingredient": "108472966",
+                "quantity": "12.59192825"
+            },
+            {
+                "ingredient": "107378986",
+                "quantity": "12.59192825"
+            }
+        ],
+        "prodItems": {
+            "item": "109905313",
+            "packSize": "",
+            "weight": 1124.9999999099998,
+            "pieceWeight": 0
+        }
+    },
+    "109905356": {
+        "ingredients": [
+            {
+                "ingredient": "104739424",
+                "quantity": "1080"
+            },
+            {
+                "ingredient": "108858228",
+                "quantity": "180"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "270"
+            }
+        ],
+        "prodItems": {
+            "item": "109905356",
+            "packSize": "",
+            "weight": 1530,
+            "pieceWeight": 0
+        }
+    },
+    "111040558": {
+        "ingredients": [
+            {
+                "ingredient": "111026297",
+                "quantity": "135"
+            }
+        ],
+        "prodItems": {
+            "item": "111040558",
+            "packSize": 1,
+            "weight": 135,
+            "pieceWeight": 135,
+            "multiple": 1
+        }
+    },
+    "111040574": {
+        "ingredients": [
+            {
+                "ingredient": "111026326",
+                "quantity": "135"
+            }
+        ],
+        "prodItems": {
+            "item": "111040574",
+            "packSize": 1,
+            "weight": 135,
+            "pieceWeight": 135,
+            "multiple": 1
+        }
+    },
+    "111040591": {
+        "ingredients": [
+            {
+                "ingredient": "111026351",
+                "quantity": "135"
+            }
+        ],
+        "prodItems": {
+            "item": "111040591",
+            "packSize": 1,
+            "weight": 135,
+            "pieceWeight": 135,
+            "multiple": 1
+        }
+    },
+    "111207565": {
+        "ingredients": [
+            {
+                "ingredient": "111092403",
+                "quantity": "90"
+            }
+        ],
+        "prodItems": {
+            "item": "111207565",
+            "packSize": "",
+            "weight": 90,
+            "pieceWeight": 0
+        }
+    },
+    "111393601": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "47"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "23.6"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "3"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "35.2"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "6"
+            },
+            {
+                "ingredient": "108781558",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "2"
+            }
+        ],
+        "prodItems": {
+            "item": "111393601",
+            "packSize": "2",
+            "weight": 206.8,
+            "pieceWeight": 103.4,
+            "multiple": "1"
+        }
+    },
+    "111443146": {
+        "ingredients": [
+            {
+                "ingredient": "108781558",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "210"
+            },
+            {
+                "ingredient": "109942641",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "107388949",
+                "quantity": "288"
+            },
+            {
+                "ingredient": "105544098",
+                "quantity": "204"
+            },
+            {
+                "ingredient": "108787360",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "109707093",
+                "quantity": "62.4"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "110396886",
+                "quantity": "47"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "23.6"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "3"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "35.2"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "6"
+            }
+        ],
+        "prodItems": {
+            "item": "111443146",
+            "packSize": "4",
+            "weight": 1024.2,
+            "pieceWeight": 256.05,
+            "multiple": "4"
+        }
+    },
+    "111806251": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "108415806",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "110151096",
+                "quantity": "36"
+            }
+        ],
+        "prodItems": {
+            "item": "111806251",
+            "packSize": "",
+            "weight": 108.4,
+            "pieceWeight": 0
+        }
+    },
+    "111806277": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "110788151",
+                "quantity": "10"
+            }
+        ],
+        "prodItems": {
+            "item": "111806277",
+            "packSize": "",
+            "weight": 67.4,
+            "pieceWeight": 0
+        }
+    },
+    "111806293": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "111736791",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "108527621",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "110949532",
+                "quantity": "8"
+            }
+        ],
+        "prodItems": {
+            "item": "111806293",
+            "packSize": "",
+            "weight": 100.4,
+            "pieceWeight": 0
+        }
+    },
+    "111806314": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "111845081",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "8"
+            },
+            {
+                "ingredient": "110459461",
+                "quantity": "15"
+            }
+        ],
+        "prodItems": {
+            "item": "111806314",
+            "packSize": "",
+            "weight": 100.4,
+            "pieceWeight": 0
+        }
+    },
+    "111806331": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "111931123",
+                "quantity": "29.7"
+            }
+        ],
+        "prodItems": {
+            "item": "111806331",
+            "packSize": "",
+            "weight": 102.10000000000001,
+            "pieceWeight": 0
+        }
+    },
+    "111813670": {
+        "ingredients": [
+            {
+                "ingredient": "111776240",
+                "quantity": "500"
+            },
+            {
+                "ingredient": "108475411",
+                "quantity": "100"
+            },
+            {
+                "ingredient": "108472798",
+                "quantity": "45"
+            },
+            {
+                "ingredient": "108472966",
+                "quantity": "50"
+            },
+            {
+                "ingredient": "107378986",
+                "quantity": "15"
+            }
+        ],
+        "prodItems": {
+            "item": "111813670",
+            "packSize": "1",
+            "weight": 710,
+            "pieceWeight": 710,
+            "multiple": "2"
+        }
+    },
+    "111813696": {
+        "ingredients": [
+            {
+                "ingredient": "108858228",
+                "quantity": "125"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "125"
+            },
+            {
+                "ingredient": "109100742",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "108475411",
+                "quantity": "75"
+            },
+            {
+                "ingredient": "109707093",
+                "quantity": "15.6"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "50"
+            }
+        ],
+        "prodItems": {
+            "item": "111813696",
+            "packSize": "1",
+            "weight": 450.6,
+            "pieceWeight": 450.6,
+            "multiple": "2"
+        }
+    },
+    "111813725": {
+        "ingredients": [
+            {
+                "ingredient": "111993957",
+                "quantity": "74"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "111174628",
+                "quantity": "24"
+            },
+            {
+                "ingredient": "102385175",
+                "quantity": "10"
+            }
+        ],
+        "prodItems": {
+            "item": "111813725",
+            "packSize": "2",
+            "weight": 178,
+            "pieceWeight": 89,
+            "multiple": 1
+        }
+    },
+    "111813741": {
+        "ingredients": [
+            {
+                "ingredient": "111993957",
+                "quantity": "74"
+            },
+            {
+                "ingredient": "111717637",
+                "quantity": "70"
+            },
+            {
+                "ingredient": "108850171",
+                "quantity": "25"
+            },
+            {
+                "ingredient": "110151150",
+                "quantity": "30"
+            },
+            {
+                "ingredient": "107379006",
+                "quantity": "10"
+            }
+        ],
+        "prodItems": {
+            "item": "111813741",
+            "packSize": "2",
+            "weight": 209,
+            "pieceWeight": 104.5,
+            "multiple": 1
+        }
+    },
+    "111857496": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "111736820",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "109270291",
+                "quantity": "10"
+            }
+        ],
+        "prodItems": {
+            "item": "111857496",
+            "packSize": "",
+            "weight": 82.4,
+            "pieceWeight": 0
+        }
+    },
+    "111878086": {
+        "ingredients": [
+            {
+                "ingredient": "111776240",
+                "quantity": "500"
+            }
+        ],
+        "prodItems": {
+            "item": "111878086",
+            "packSize": "",
+            "weight": 500,
+            "pieceWeight": 0
+        }
+    },
+    "111964902": {
+        "ingredients": [
+            {
+                "ingredient": "107525270",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "111736820",
+                "quantity": "35"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "31"
+            },
+            {
+                "ingredient": "110396886",
+                "quantity": "164.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "82.6"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "10.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "123.2"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "21"
+            },
+            {
+                "ingredient": "111736791",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "108527621",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "110949532",
+                "quantity": "8"
+            },
+            {
+                "ingredient": "111845081",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "110459461",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "108415806",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "110151096",
+                "quantity": "36"
+            },
+            {
+                "ingredient": "109270291",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "111931123",
+                "quantity": "29.7"
+            },
+            {
+                "ingredient": "110788151",
+                "quantity": "10"
+            }
+        ],
+        "prodItems": {
+            "item": "111964902",
+            "packSize": "",
+            "weight": 661.5,
+            "pieceWeight": 0
+        }
+    },
+    "111967425": {
+        "ingredients": [
+            {
+                "ingredient": "107525270",
+                "quantity": "7.5"
+            },
+            {
+                "ingredient": "111736820",
+                "quantity": "17.5"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "15.5"
+            },
+            {
+                "ingredient": "110396886",
+                "quantity": "70.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "35.4"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "4.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "52.8"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "9"
+            },
+            {
+                "ingredient": "111736791",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "108527621",
+                "quantity": "7.5"
+            },
+            {
+                "ingredient": "110949532",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "111845081",
+                "quantity": "10"
+            },
+            {
+                "ingredient": "110459461",
+                "quantity": "7.5"
+            },
+            {
+                "ingredient": "108415806",
+                "quantity": "7.5"
+            },
+            {
+                "ingredient": "110151096",
+                "quantity": "18"
+            },
+            {
+                "ingredient": "109270291",
+                "quantity": "5"
+            },
+            {
+                "ingredient": "111931123",
+                "quantity": "14.85"
+            }
+        ],
+        "prodItems": {
+            "item": "111967425",
+            "packSize": "",
+            "weight": 297.05,
+            "pieceWeight": 0
+        }
+    },
+    "112028219": {
+        "ingredients": [
+            {
+                "ingredient": "110396886",
+                "quantity": "23.5"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "11.8"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "1.5"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "17.6"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "107525270",
+                "quantity": "15"
+            },
+            {
+                "ingredient": "111736820",
+                "quantity": "20"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "8"
+            }
+        ],
+        "prodItems": {
+            "item": "112028219",
+            "packSize": "",
+            "weight": 100.4,
+            "pieceWeight": 0
+        }
+    },
+    "112084333": {
+        "ingredients": [
+            {
+                "ingredient": "111845081",
+                "quantity": "60"
+            },
+            {
+                "ingredient": "108415865",
+                "quantity": "69"
+            },
+            {
+                "ingredient": "110459461",
+                "quantity": "45"
+            },
+            {
+                "ingredient": "110396886",
+                "quantity": "282"
+            },
+            {
+                "ingredient": "110105276",
+                "quantity": "141.6"
+            },
+            {
+                "ingredient": "102385247",
+                "quantity": "18"
+            },
+            {
+                "ingredient": 999999,
+                "quantity": "211.2"
+            },
+            {
+                "ingredient": "108171354",
+                "quantity": "36"
+            },
+            {
+                "ingredient": "108415806",
+                "quantity": "45"
+            },
+            {
+                "ingredient": "110151096",
+                "quantity": "108"
+            },
+            {
+                "ingredient": "111931123",
+                "quantity": "89.1"
+            },
+            {
+                "ingredient": "110788151",
+                "quantity": "30"
+            }
+        ],
+        "prodItems": {
+            "item": "112084333",
+            "packSize": "",
+            "weight": 1134.8999999999999,
+            "pieceWeight": 0
+        }
+    },
+    "112121835": {
+        "ingredients": [
+            {
+                "ingredient": "111776240",
+                "quantity": "500"
+            },
+            {
+                "ingredient": "108475411",
+                "quantity": "80"
+            },
+            {
+                "ingredient": "108473192",
+                "quantity": "40"
+            },
+            {
+                "ingredient": "103863790",
+                "quantity": "45"
+            },
+            {
+                "ingredient": "107378986",
+                "quantity": "15"
+            }
+        ],
+        "prodItems": {
+            "item": "112121835",
+            "packSize": 1,
+            "weight": 680,
+            "pieceWeight": 680,
+            "multiple": 1
+        }
+    }
+}
